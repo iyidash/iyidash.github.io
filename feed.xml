@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-03-20T19:53:22+08:00</updated>
+  <updated>2022-03-20T20:20:09+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -138,7 +138,7 @@ testA
 
 
 
-asdsdfsadf
+
 
 实现方式：
 
@@ -154,7 +154,14 @@ testB
     将世界坐标的x轴作为uv.x，uv.y暂时先保持不变。这样就可以做到随意改变宽度却不影响列数。
 
     因为uv.y不变所以可以使用 linerenderer 来做上下坡的效果。
- ...
+  
+
+
+  
+
+
+
+...
     </summary>
   
 
