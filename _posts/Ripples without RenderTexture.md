@@ -8,7 +8,7 @@
 >
 > 由于shader不能暂存信息，所以需要脚本将角色位置信息传递过来
 >
-> （geometry shader 可以暂存信息？）
+> （geometry shader 可以暂存信息？）aaaa
 
 <ul>
     <li><a href="#introMethod">实现方式</a></li>
